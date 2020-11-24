@@ -16,3 +16,4 @@ while shutdown:
     else:
         print("chờ 1 lát rồi được hỏi lại")
         time.sleep(30)
+        shutdown = True
